@@ -1,0 +1,115 @@
+body{
+  font-family:Arial;
+  background-color:rgb(230, 230, 230);
+  color:rgba(66, 134, 244, 0.8);
+  margin-left:auto;
+  margin-right:auto;
+  }
+  header{
+  background-color:#34495e;
+  color:white;
+  height: 80px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+   li .button{
+    background-color:#34495e;
+    list-style-type:none;
+    color:white;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-right: 15px;
+    font-family: monospace;
+    }
+    li .buttons{
+      background-color:#34495e;
+      list-style-type:none;
+      color:white;
+      font-size: 12px;
+      padding-top: 12px;
+      padding-left: 15px;
+      padding-right: 15px;
+      font-family: monospace;
+      }
+    ul span{
+      text-decoration:none;
+      background-color:#34495e;
+      font-family: monospace;
+      padding-left: 10px;
+      list-style-type:none;
+      color:rgb(199, 198, 198);
+      font-size: 15px;
+      display: block;
+      overflow: hidden;
+      }
+
+     .button:hover{
+      background-color:#34495e;
+      color:rgb(150, 150, 150);
+      cursor: pointer;
+      }
+      .text ul{
+        background-color:#34495e;
+        color: rgb(150, 150, 150);
+        padding:0;
+        margin:0;
+        overflow:hidden;
+        list-style-type:none;
+        width:100%;
+        }
+       li b{
+         color: black;
+         padding-left: 10px;
+         padding-right: 10px;
+         padding-top: 10px;
+       }
+
+  
+    .text li {
+    float:left;
+    }
+    .text span{
+      padding-top: 10px;
+      color: white;
+      padding-left: 10px;
+      font-size: 12px;
+      padding-top: 12px;
+
+    }
+    .text input{
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    input:hover{
+      cursor: pointer;
+      color: rgb(167, 167, 167);
+    }
+
+    .array-container {
+      align-items: center;
+    }
+    
+    .array-bar {
+      display: inline-block;
+      margin: 0 1px;
+    }
+
+    element.style {
+    background-color: white;
+    cursor: pointer;
+    color: white;
+    }
+   #changeSize {
+   background-color: white;
+   }
+  
+    
+    
+   
+
+
+
+
